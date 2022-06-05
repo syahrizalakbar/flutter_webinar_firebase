@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780211311763",
+    "firebase_url": "https://webinar-firebase-eb16c-default-rtdb.firebaseio.com",
+    "project_id": "webinar-firebase-eb16c",
+    "storage_bucket": "webinar-firebase-eb16c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780211311763:android:469c39b2d95cea8506a966",
+        "android_client_info": {
+          "package_name": "my.riderunner.flutter_webinar_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780211311763-dik89c0me261hn7g7gj9fiveafacagbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.riderunner.flutter_webinar_firebase",
+            "certificate_hash": "17373030d13142e17b774f2e988e2a672f280430"
+          }
+        },
+        {
+          "client_id": "780211311763-cmrp7refa3b1dnrs2i053ta4vufhsv1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1FKst8M6QC8C6eIH82bVqhC-DjvUMrCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780211311763-cmrp7refa3b1dnrs2i053ta4vufhsv1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
